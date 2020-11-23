@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Stories by New York Times</string>
+    <string name="you_have_not_saved_any_articles_yet">You have not saved any articles yet!!</string>
+    <string name="article_image">Article Image</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="home_tab">Home Tab</string>
+    <string name="bookmarks_tab">Bookmarks Tab</string>
+    <string name="read_full_article">Read Full Article</string>
+</resources>
